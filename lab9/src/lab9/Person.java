@@ -1,9 +1,13 @@
 package lab9;
 
 public abstract class Person {
-	protected String name;
-	protected String address ="String";
+	private String name;
+	private String address ="String";
 	
+	public Person(String name,String address) {
+		this.name=name;
+		this.address=address;
+	}
 	
 	public String getName() {
 		return name;
