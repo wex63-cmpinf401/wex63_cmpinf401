@@ -1,5 +1,12 @@
 package wex63_MenuManager_v3;
 
+/**
+ * Class MenuItem
+ * author : Wenjie
+ * created: 11/28/2022
+ */
+
+
 public class MenuItem {
 	private String name;
 	private String description;

@@ -1,5 +1,12 @@
 package wex63_MenuManager_v3;
 
+/**
+ * Class MenuRandomize 
+ * author : Wenjie
+ * created:  11/28/2022
+ */
+
+
 import java.util.ArrayList;
 
 public class MenuRandomize {

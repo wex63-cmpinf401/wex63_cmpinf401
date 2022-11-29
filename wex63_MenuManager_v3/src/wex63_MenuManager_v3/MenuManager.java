@@ -1,4 +1,10 @@
 package wex63_MenuManager_v3;
+/**
+ * Class MenuManager
+ * author : Wenjie
+ * created:  11/28/2022
+ */
+
 
 import java.util.ArrayList;
 import java.util.Random;

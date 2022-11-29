@@ -1,5 +1,12 @@
 package wex63_MenuManager_v3;
 
+/**
+ * Class FileManager
+ * author : Wenjie
+ * created: 11/28/2022
+ */
+
+
 import java.io.*;
 import java.util.ArrayList;
 
