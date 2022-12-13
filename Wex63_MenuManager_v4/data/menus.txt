@@ -1,0 +1,4 @@
+Menu{name='001', entree=Sirloin Steak, salad=Quinoa, side=Grilled Potatoes, dessert=null}Total price is:31.5.Total Calories is:1210
+Menu{name='002', entree=Curry Chicken, salad=Soy bean sprout with corn, side=Grilled Potatoes, dessert=Fruit Salad}Total price is:58.0.Total Calories is:2320
+Menu{name='Menu with Minimum Calories', entree=Curry Chicken, salad=Mixed Vegetables, side=Quinoa, dessert=Chocolate Cake}Total price is:88.2.Total Calories is:3155
+Menu{name='Menu with Maximum Calories', entree=Sirloin Steak, salad=Mixed Vegetables, side=Quinoa, dessert=Chocolate Cake}Total price is:129.4.Total Calories is:4380
